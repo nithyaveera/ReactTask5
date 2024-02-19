@@ -1,6 +1,6 @@
 # React-useContext-Task
 
-`Front-end Deployed URL`=>
+`Front-end Deployed URL`=> https://cartpage-task.netlify.app/
 
 
 ### Product Display
